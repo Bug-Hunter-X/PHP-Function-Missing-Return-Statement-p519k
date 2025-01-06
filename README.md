@@ -1,0 +1,3 @@
+# PHP Function Missing Return Statement Bug
+This repository demonstrates a common error in PHP: a missing return statement in a function. The function `calculateSum` is designed to compute the sum of an array of numbers; however, due to the missing `return` keyword, it does not return the intended result, leading to unexpected behavior.
+The solution involves adding the missing `return` statement to the function to ensure that the calculated sum is correctly returned.
